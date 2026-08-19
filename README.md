@@ -6,4 +6,4 @@ successfully connected my local git environment to github using ssh
 this project is used to practice git and github workflows, 
 including commits, branches, merging, pull requests, and issue tracking.
 # login validation
-login validation checks wether the user has entered valid credentials.
+login validation checks whether the user has entered valid credentials.
